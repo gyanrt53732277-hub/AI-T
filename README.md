@@ -137,7 +137,7 @@ To extract metadata without polluting the translation text, Gemma 4 is configure
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/DeepSaha25/TransCreate-Gemma.git
+git clone https://github.com/user987/TransCreate-Gemma.git
 cd TransCreate-Gemma
 npm install
 ```
@@ -183,10 +183,11 @@ The studio is designed for global reach with 20 preset culture profiles:
 
 ## Hackathon Tracks & Submission Details
 
-* **Kaggle Writeup**: Available in the repository as [kaggle_writeup.md](file:///C:/Users/Deep%20Saha/.gemini/antigravity-ide/brain/94eadb09-bfed-4a39-ab7c-5f9791e860a7/kaggle_writeup.md).
+
+.
 * **Live App**: Hosted on Vercel at **[transcreate-gemma.vercel.app](https://transcreate-gemma.vercel.app/)**.
 * **Source Code**: Fully public Git repository.
 
 ---
 
-*Created by Deep Saha for the Build with Gemma 4 Hackathon 2026.*
+
