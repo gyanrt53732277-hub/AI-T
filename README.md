@@ -8,7 +8,7 @@
 
 ---
 
-## Table of Contents
+## Table of Contents 
 * [The Problem](#the-problem)
 * [The Solution](#the-solution)
 * [Track 3: Open Track Staged Evaluation](#track-3-open-track-staged-evaluation)
